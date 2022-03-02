@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@ygoe/msgpack": "^1.0.3"
+	}
+}

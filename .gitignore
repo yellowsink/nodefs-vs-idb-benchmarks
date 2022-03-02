@@ -1,4 +1,6 @@
-/node_modules/
-/public/build/
+node_modules/
+/nw/public/build/
 
 .DS_Store
+
+temp*

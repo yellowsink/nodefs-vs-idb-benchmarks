@@ -1,5 +1,0 @@
-{
-	"name": "nw-node-json",
-	"main": "index.html",
-	"chromium-args": "--mixed-context"
-}
